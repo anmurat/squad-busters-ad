@@ -19,7 +19,7 @@ No dependencies, no build step - open `squad-busters-ad.html` in any modern brow
 ##  Gameplay Flow
 
 ```
-Hook ? [Tap / PLAY] ? Gameplay ? [Defeat enemies] ? Chest ? Character Selection ? End Card
+Hook -> [Tap / PLAY] -> Gameplay -> [Defeat enemies] -> Chest -> Character Selection -> End Card
 ```
 
 1. **Move** - drag the joystick at the bottom of the screen  
