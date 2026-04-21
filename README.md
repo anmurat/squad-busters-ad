@@ -23,7 +23,7 @@ Hook -> [Tap / PLAY] -> Gameplay -> [Defeat enemies] -> Chest -> Character Selec
 ```
 
 1. **Move** - drag the joystick at the bottom of the screen  
-2. **Attack** - walk near a ? enemy; auto-attack triggers on proximity  
+2. **Attack** - walk near a enemy; auto-attack triggers on proximity  
 3. **Collect coins** - gold coins drop from defeated enemies and can be collected  
 4. **Open chest** - once both enemies are defeated the chest glows; tap it to open  
 5. **Pick a character** - choose from detailed character selection screen with stats  
