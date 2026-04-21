@@ -5,7 +5,7 @@ No dependencies, no build step - open `squad-busters-ad.html` in any modern brow
 
 ---
 
-## ? Screens
+##  Screens
 
 | Screen | Description |
 |--------|-------------|
@@ -16,7 +16,7 @@ No dependencies, no build step - open `squad-busters-ad.html` in any modern brow
 
 ---
 
-## ? Gameplay Flow
+##  Gameplay Flow
 
 ```
 Hook ? [Tap / PLAY] ? Gameplay ? [Defeat enemies] ? Chest ? Character Selection ? End Card
@@ -33,7 +33,7 @@ The presenter bar at the bottom lets you jump directly to any screen during deve
 
 ---
 
-## ? Key Features
+##  Key Features
 
 - **Gold Coin System**: Enemies drop collectible gold coins on defeat
 - **Proximity Combat**: Auto-attack when hero gets close to enemies  
@@ -44,7 +44,7 @@ The presenter bar at the bottom lets you jump directly to any screen during deve
 
 ---
 
-## ? Technical Implementation
+##  Technical Implementation
 
 - **Single HTML File**: All CSS and JavaScript inlined
 - **No Dependencies**: Only Google Fonts CDN for typography
